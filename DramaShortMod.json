@@ -63,6 +63,13 @@
     "allowOffline": true
   },
   {
+    "id": "896d68456c8ad35a",
+    "username": "6285766652582",
+    "password": "dramashort",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
